@@ -1,9 +1,9 @@
-# Palindrome
+## Ex-2 Palindrome
+### Date:28/3/2023
 
-
-## Aim:
+### Aim:
 To write a C# program to find whether the given string is a Palindrome or not.
-## Algorithm:
+### Algorithm:
 
 ### Step1: 
 Start the program.
@@ -22,7 +22,7 @@ Print palindrome if it's equal else print not a palindrome.
 
 ### Step6:
 End the program.
-## Program:
+### Program:
 ```
 Delevoped By : Silambarasan K
 Reg No: 212221230101
@@ -54,9 +54,9 @@ namespace exp2
     }
 }
 ```
-## Output:
+### Output:
 ![P1](https://user-images.githubusercontent.com/94525786/226187726-cba1d8f2-6c62-42a9-b89d-0e716a6b1dfd.png)
 ![P2](https://user-images.githubusercontent.com/94525786/226187728-b794a19c-e3fa-4f3b-b3ee-9579007551d4.png)
 
-## Result:
+### Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
