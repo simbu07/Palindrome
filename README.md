@@ -1,5 +1,5 @@
 ## Ex-2 Palindrome
-### Date:28/3/2023
+
 
 ### Aim:
 To write a C# program to find whether the given string is a Palindrome or not.
